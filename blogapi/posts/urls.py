@@ -1,4 +1,3 @@
-from django.db import router
 from rest_framework.routers import SimpleRouter
 
 from .views import UserViewSet, PostViewSet
